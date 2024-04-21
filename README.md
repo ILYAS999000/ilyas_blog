@@ -1,4 +1,4 @@
-Nach Download
+Nach Download von der Blog-APP
 -virtuelle Umgebung erstellen
 -requirements.txt Packete installieren
 -PostgreSQL-Zugang in settings.py einstellen sowie PostgreSQL Datenbank aktivieren
